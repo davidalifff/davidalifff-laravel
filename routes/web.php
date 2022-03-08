@@ -15,16 +15,48 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('welcome', [
+    "title" => "Home"
+    ]);
 });
 
-//route view
-Route::view('/about','about');
-Route::view('/contact','contact');
-Route::view('/dinning','dinning');
-Route::view('/gallery','gallery');
-Route::view('/news','news');
-Route::view('/rooms','rooms');
+Route::get('/about', function () {
+    return view('about', [
+    "title" => "About"
+    ]);
+});
+
+Route::get('/contact', function () {
+    return view('contact', [
+    "title" => "Contact"
+    ]);
+});
+
+Route::get('/dinning', function () {
+    return view('dinning', [
+    "title" => "Dinning"
+    ]);
+});
+
+Route::get('/gallery', function () {
+    return view('gallery', [
+    "title" => "Gallery"
+    ]);
+});
+
+Route::get('/news', function () {
+    return view('news', [
+    "title" => "News"
+    ]);
+});
+
+Route::get('/rooms', function () {
+    return view('rooms', [
+    "title" => "Rooms"
+    ]);
+});
+
+
 
 
 Auth::routes();
