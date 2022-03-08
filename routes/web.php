@@ -19,23 +19,13 @@ Route::get('/', function () {
 });
 
 //route view
-Route::view('/home','viewname');
+Route::view('/about','about');
+Route::view('/contact','contact');
+Route::view('/dinning','dinning');
+Route::view('/gallery','gallery');
+Route::view('/news','news');
+Route::view('/rooms','rooms');
 
-//route redirect
-Route::redirect('/lama','/baru',301);
-
-//route param
-Route::get('/user/{id}', function($id){
-    return 'User ID : ' . $id;
-});
-
-//route with optional param
-Route::get('/user/{id?}', function($id){
-    return 'User ID : ' . $id;
-});
-
-//route with required parameter and controller laravel 8
-Route::get('/user/{id}', [UserController::class, 'show']);
 
 Auth::routes();
 
