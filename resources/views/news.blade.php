@@ -1,5 +1,5 @@
 <!--Template Name: vacayhome
-File Name: news.html
+File Name: news
 Author Name: ThemeVault
 Author URI: http://www.themevault.net/
 License URI: http://www.themevault.net/license/-->
@@ -54,8 +54,8 @@ License URI: http://www.themevault.net/license/-->
                         <div class="row">
                             <div class="col-md-2 col-sm-6 col-xs-6">
                                 <div id="logo">
-                                    <!--<a href="index.html"><img src="images/logo.png" alt="logo"></a>-->
-                                    <a href="index.html"><span>vacay</span>home</a>
+                                    <!--<a href="index"><img src="images/logo.png" alt="logo"></a>-->
+                                    <a href="index"><span>vacay</span>home</a>
                                 </div>
                             </div>
                             <div class="col-sm-6 visible-sm">
@@ -74,13 +74,13 @@ License URI: http://www.themevault.net/license/-->
                                     </div>
                                     <div class="collapse navigation navbar-collapse navbar-ex1-collapse remove-space">
                                         <ul class="list-unstyled nav1 cl-effect-10">
-                                            <li><a  data-hover="Home" href="index.html"><span>Home</span></a></li>
-                                            <li><a data-hover="About"  href="about.html"><span>About</span></a></li>
-                                            <li><a data-hover="Rooms" href="rooms.html"><span>Rooms</span></a></li>
-                                            <li><a data-hover="Gallery"  href="gallery.html"><span>Gallery</span></a></li>
-                                            <li><a data-hover="Dinning" href="dinning.html"><span>Dinning</span></a></li>
+                                            <li><a  data-hover="Home" href="index"><span>Home</span></a></li>
+                                            <li><a data-hover="About"  href="about"><span>About</span></a></li>
+                                            <li><a data-hover="Rooms" href="rooms"><span>Rooms</span></a></li>
+                                            <li><a data-hover="Gallery"  href="gallery"><span>Gallery</span></a></li>
+                                            <li><a data-hover="Dinning" href="dinning"><span>Dinning</span></a></li>
                                             <li><a data-hover="News" class="active"><span>News</span></a></li>
-                                            <li><a data-hover="Contact Us" href="contact.html"><span>contact Us</span></a></li>
+                                            <li><a data-hover="Contact Us" href="contact"><span>contact Us</span></a></li>
                                         </ul>
                                     </div>
                                 </nav>
@@ -109,15 +109,15 @@ License URI: http://www.themevault.net/license/-->
                             <div class="side-A">
                                 <div class="product-thumb">
                                     <div class="image">
-                                        <a href="single-blog.html"><img alt="image" class="img-responsive" src="images/category1.png"></a>
+                                        <a href="single-blog"><img alt="image" class="img-responsive" src="images/category1.png"></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="side-B">
                                 <div class="product-desc-side">
-                                    <h3><a href="single-blog.html">luxury spa</a></h3>
+                                    <h3><a href="single-blog">luxury spa</a></h3>
                                     <p>Lorem ipsum dolor sit amet, consec adipiscing elit. Nunc lorem nulla, ornare eu felis luctus non maximus vitae, portt neque. ipsum dolor sit amet, consec adipiscing elit.</p>
-                                    <div class="links"><a href="single-blog.html">Read more</a></div>
+                                    <div class="links"><a href="single-blog">Read more</a></div>
                                 </div>
                             </div>
                         </div>
@@ -126,15 +126,15 @@ License URI: http://www.themevault.net/license/-->
                             <div class="side-A">
                                 <div class="product-thumb">
                                     <div class="image">
-                                        <a href="single-blog.html"><img src="images/category2.png" class="img-responsive" alt="image"></a>
+                                        <a href="single-blog"><img src="images/category2.png" class="img-responsive" alt="image"></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="side-B">
                                 <div class="product-desc-side">
-                                    <h3><a href="single-blog.html">Beatusish ingl</a></h3>
+                                    <h3><a href="single-blog">Beatusish ingl</a></h3>
                                     <p>Lorem ipsum dolor sit amet, consec adipiscing elit. Nunc lorem nulla, ornare eu felis luctus non maximus vitae, portt neque. ipsum dolor sit amet, consec adipiscing elit.</p>
-                                    <div class="links"><a href="single-blog.html">Read more</a></div>
+                                    <div class="links"><a href="single-blog">Read more</a></div>
                                 </div>
                             </div>
                         </div>
@@ -143,16 +143,16 @@ License URI: http://www.themevault.net/license/-->
                         <div class="col-md-6 col-sm-12 col-xs-12 remove-padd-right">
                             <div class="side-A">
                                 <div class="product-desc-side">
-                                    <h3><a href="single-blog.html">luxury room</a></h3>
+                                    <h3><a href="single-blog">luxury room</a></h3>
                                     <p>Lorem ipsum dolor sit amet, consec adipiscing elit. Nunc lorem nulla, ornare eu felis luctus non maximus vitae, portt neque. ipsum dolor sit amet, consec adipiscing elit.</p>
-                                    <div class="links"><a href="single-blog.html">Read more</a></div>
+                                    <div class="links"><a href="single-blog">Read more</a></div>
                                 </div>
                             </div>
 
                             <div class="side-B">
                                 <div class="product-thumb">
                                     <div class="image txt-rgt">
-                                        <a class="arrow-left" href="single-blog.html"><img alt="imaga" class="img-responsive" src="images/category3.png"></a>
+                                        <a class="arrow-left" href="single-blog"><img alt="imaga" class="img-responsive" src="images/category3.png"></a>
                                     </div>
                                 </div>
                             </div>
@@ -161,16 +161,16 @@ License URI: http://www.themevault.net/license/-->
                         <div class="col-md-6 col-sm-12 col-xs-12 remove-padd-left">
                             <div class="side-A">
                                 <div class="product-desc-side">
-                                    <h3><a href="single-blog.html">heaven seanery</a></h3>
+                                    <h3><a href="single-blog">heaven seanery</a></h3>
                                     <p>Lorem ipsum dolor sit amet, consec adipiscing elit. Nunc lorem nulla, ornare eu felis luctus non maximus vitae, portt neque. ipsum dolor sit amet, consec adipiscing elit.</p>
-                                    <div class="links"><a href="single-blog.html">Read more</a></div>
+                                    <div class="links"><a href="single-blog">Read more</a></div>
                                 </div>
                             </div>
 
                             <div class="side-B">
                                 <div class="product-thumb txt-rgt">
                                     <div class="image">
-                                        <a class="arrow-left" href="single-blog.html"><img alt="imaga" class="img-responsive" src="images/category4.png"></a>
+                                        <a class="arrow-left" href="single-blog"><img alt="imaga" class="img-responsive" src="images/category4.png"></a>
                                     </div>
                                 </div>
                             </div>
@@ -221,13 +221,13 @@ License URI: http://www.themevault.net/license/-->
                             <div class="footer-details">
                                 <h4>explore</h4>
                                 <ul class="list-unstyled footer-links">
-                                    <li><a href="index.html">Home</a></li>
-                                    <li><a href="about.html">About</a></li>
-                                    <li><a href="rooms.html">Rooms</a></li>
-                                    <li><a href="gallery.html">Gallery</a></li>
+                                    <li><a href="/">Home</a></li>
+                                    <li><a href="about">About</a></li>
+                                    <li><a href="rooms">Rooms</a></li>
+                                    <li><a href="gallery">Gallery</a></li>
                                     <li><a href="#">Dinning</a></li>
-                                    <li class="active"> <a href="news.html">News</a></li>
-                                    <li> <a href="contact.html">Contact</a></li>
+                                    <li class="active"> <a href="news">News</a></li>
+                                    <li> <a href="contact">Contact</a></li>
                                 </ul>
                             </div>
                         </div>

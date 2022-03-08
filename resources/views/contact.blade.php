@@ -1,5 +1,5 @@
 <!--Template Name: vacayhome
-File Name: contact.html
+File Name: contact
 Author Name: ThemeVault
 Author URI: http://www.themevault.net/
 License URI: http://www.themevault.net/license/-->
@@ -54,8 +54,8 @@ License URI: http://www.themevault.net/license/-->
                         <div class="row">
                             <div class="col-md-2 col-sm-6 col-xs-6">
                                 <div id="logo">
-                                    <!--<a href="index.html"><img src="images/logo.png" alt="logo"></a>-->
-                                    <a href="index.html"><span>vacay</span>home</a>
+                                    <!--<a href="index"><img src="images/logo.png" alt="logo"></a>-->
+                                    <a href="/"><span>vacay</span>home</a>
                                 </div>
                             </div>
                             <div class="col-sm-6 visible-sm">
@@ -74,12 +74,12 @@ License URI: http://www.themevault.net/license/-->
                                     </div>
                                     <div class="collapse navigation navbar-collapse navbar-ex1-collapse remove-space">
                                         <ul class="list-unstyled nav1 cl-effect-10">
-                                            <li><a data-hover="Home" href="index.html"><span>Home</span></a></li>
-                                            <li><a data-hover="About" href="about.html"><span>About</span></a></li>
-                                            <li><a data-hover="Rooms" href="rooms.html"><span>Rooms</span></a></li>
-                                            <li><a data-hover="Gallery"  href="gallery.html"><span>Gallery</span></a></li>
-                                            <li><a data-hover="Dinning" href="dinning.html"><span>Dinning</span></a></li>
-                                            <li><a data-hover="News" href="news.html"><span>News</span></a></li>
+                                            <li><a data-hover="Home" href="/"><span>Home</span></a></li>
+                                            <li><a data-hover="About" href="about"><span>About</span></a></li>
+                                            <li><a data-hover="Rooms" href="rooms"><span>Rooms</span></a></li>
+                                            <li><a data-hover="Gallery"  href="gallery"><span>Gallery</span></a></li>
+                                            <li><a data-hover="Dinning" href="dinning"><span>Dinning</span></a></li>
+                                            <li><a data-hover="News" href="news"><span>News</span></a></li>
                                             <li><a data-hover="Contact Us" class="active"><span>contact Us</span></a></li>
                                         </ul>
                                     </div>
@@ -173,13 +173,13 @@ License URI: http://www.themevault.net/license/-->
                             <div class="footer-details">
                                 <h4>explore</h4>
                                 <ul class="list-unstyled footer-links">
-                                    <li><a href="index.html">Home</a></li>
-                                    <li><a href="about.html">About</a></li>
-                                    <li><a href="rooms.html">Rooms</a></li>
-                                    <li><a href="gallery.html">Gallery</a></li>
+                                    <li><a href="/">Home</a></li>
+                                    <li><a href="about">About</a></li>
+                                    <li><a href="rooms">Rooms</a></li>
+                                    <li><a href="gallery">Gallery</a></li>
                                     <li><a href="#">Dinning</a></li>
-                                    <li> <a href="news.html">News</a></li>
-                                    <li class="active"> <a href="contact.html">Contact</a></li>
+                                    <li> <a href="news">News</a></li>
+                                    <li class="active"> <a href="contact">Contact</a></li>
                                 </ul>
                             </div>
                         </div>
